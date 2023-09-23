@@ -1,8 +1,8 @@
 # Algorithm Description Document
 
-Author: 
+Author: Derek Ely
 
-Date: 
+Date: 9/22/23
 
 ## 1. Name
 Binary Search
